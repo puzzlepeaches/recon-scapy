@@ -1,14 +1,6 @@
 # recon-scapy
 Simple script for recon network with Python3
 
-# Install (for Arch Linux)
-```
-sudo pacman -S python python-pip git
-git clone https://github.com/vay3t/recon-scapy
-cd recon-scapy
-sudo pip3 install -r requirements.txt
-```
-
 # Help
 ```
 usage: python sniff-recon.py <iface> <option>
